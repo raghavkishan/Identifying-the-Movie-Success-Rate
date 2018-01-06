@@ -1,0 +1,10 @@
+C:\Users\SK106736\Desktop\chaitu\Education\DM-PROJ\CSVEDITOR\DeleteImage\bin\Debug\DeleteImage.exe.config
+C:\Users\SK106736\Desktop\chaitu\Education\DM-PROJ\CSVEDITOR\DeleteImage\bin\Debug\DeleteImage.exe
+C:\Users\SK106736\Desktop\chaitu\Education\DM-PROJ\CSVEDITOR\DeleteImage\bin\Debug\DeleteImage.pdb
+C:\Users\SK106736\Desktop\chaitu\Education\DM-PROJ\CSVEDITOR\DeleteImage\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\SK106736\Desktop\chaitu\Education\DM-PROJ\CSVEDITOR\DeleteImage\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SK106736\Desktop\chaitu\Education\DM-PROJ\CSVEDITOR\DeleteImage\bin\Debug\LumenWorks.Framework.IO.pdb
+C:\Users\SK106736\Desktop\chaitu\Education\DM-PROJ\CSVEDITOR\DeleteImage\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\SK106736\Desktop\chaitu\Education\DM-PROJ\CSVEDITOR\DeleteImage\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SK106736\Desktop\chaitu\Education\DM-PROJ\CSVEDITOR\DeleteImage\obj\Debug\DeleteImage.exe
+C:\Users\SK106736\Desktop\chaitu\Education\DM-PROJ\CSVEDITOR\DeleteImage\obj\Debug\DeleteImage.pdb
